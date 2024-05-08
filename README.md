@@ -13,10 +13,14 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
 </p>
 <br/>
 
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/darryl-17/">
+    <img src="https://github.com/darryl-17/darryl-17/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
+
 <details open> 
   <summary><h2>📘 My  Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/darryl-17/inventory-management"><img width="278" src="https://darryl-17-github-readme-stats.vercel.app/api/pin/?username=darryl-17&repo=inventory-management&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="inventory-management"></a>
+  
