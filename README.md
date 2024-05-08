@@ -31,6 +31,6 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
 
 <details open> 
   <summary><h2>📘 My  Open Source Projects</h2></summary>
-  **`Checkout the Pinned Repositories below and thanks to leave a star`**
+  # **`Checkout the Pinned Repositories below and thanks to leave a star`**
 
   
