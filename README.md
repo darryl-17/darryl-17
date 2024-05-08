@@ -14,11 +14,6 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
 <br/>
 
 
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/darryl-17/">
-    <img src="https://github.com/darryl-17/darryl-17/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
 
 <details open> 
   <summary><h2>📘 My  Open Source Projects</h2></summary>
