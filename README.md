@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE
 **`Darryl Wassi (Developer/Community Manager/Creator)`**
-I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack developer, content creator and community manager for various businesses. I publish content on pinterest and "[k_rryl][instagram]".
+I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack developer, content creator and community manager for various businesses. I publish content on pinterest, instagram, facebook, telegram.
 
 <!-- Social icons section -->
 <p align="center">
@@ -31,5 +31,6 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
 
 <details open> 
   <summary><h2>📘 My  Open Source Projects</h2></summary>
+  **`Checkout the Pinned Repositories below and thanks to leave a star`**
 
   
