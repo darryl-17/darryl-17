@@ -12,6 +12,7 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
+---
 
 ### 🧰 Languages and Tools
 
