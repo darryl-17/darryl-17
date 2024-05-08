@@ -11,7 +11,7 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
   <a href="(https://discord.com/channels/@me"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<br/>
+
 ---
 
 ### 🧰 Languages and Tools
