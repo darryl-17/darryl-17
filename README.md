@@ -11,5 +11,12 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
   <a href="(https://discord.com/channels/@me"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
 <br/>
+
+<details open> 
+  <summary><h2>📘 My  Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/darryl-17/inventory-management"><img width="278" src="https://darryl-17-github-readme-stats.vercel.app/api/pin/?username=darryl-17&repo=inventory-management&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="inventory-management"></a>
