@@ -29,7 +29,7 @@ I'm a cameroonian Student in INFORMATION SYSTEM MANAGEMENT and full-stack develo
 <br />
 
 
-### 📊 Hobbies
+### 🏄‍♂️ Hobbies
 - Coding
 - Football
 - Basketball
