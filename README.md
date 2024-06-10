@@ -40,7 +40,7 @@ I'm a cameroonian  bachelor degree Student in INFORMATION SYSTEM MANAGEMENT and 
 
 #
 
-# All my open source respositories
+# All my  respositories
    **`Checkout the Pinned Repositories below and thanks to leave a star`**
 
   
