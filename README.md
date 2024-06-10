@@ -31,7 +31,7 @@ I'm a cameroonian  bachelor degree Student in INFORMATION SYSTEM MANAGEMENT and 
 - Coding
 - Football
 - Basketball
-- Entrepreneurship
+- Watching videos related to entrepreneurship 
 - Gaming
 
 
