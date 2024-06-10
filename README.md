@@ -41,6 +41,6 @@ I'm a cameroonian  bachelor degree Student in INFORMATION SYSTEM MANAGEMENT and 
 #
 
 # All my  respositories
-   **`Checkout the Pinned Repositories below and thanks to leave a star`**
+   **`Checkout the Pinned Repositories below and Repository section`**
 
   
