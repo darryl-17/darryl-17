@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE
-**`Darryl Wassi (Developer/Community Manager/Creator)`**
-I'm a cameroonian  bachelor degree Student in INFORMATION SYSTEM MANAGEMENT and full-stack developer, content creator and community manager for various businesses. I publish content on pinterest, instagram, facebook, telegram.
+**`Darryl Wassi (Developer/Community Manager/Content Creator/ Young entrepreneur)`**
+I'm a cameroonian  Master degree Student in the field Management of Information and Technology (MIT) and full-stack developer, content creator and community manager for various businesses. I publish content on pinterest, instagram, facebook, telegram.
 
 <!-- Social icons section -->
 <p align="center">
