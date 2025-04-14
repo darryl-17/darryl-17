@@ -1,5 +1,5 @@
 # WELCOME TO MY PROFILE
-**`Darryl Wassi (Developer/Community Manager/Content Creator/ Young entrepreneur)`**
+**`Darryl Wassi (Founder - RRYL Media Service | Video Editor | Community Manager | Web Designer)`**
 I'm a cameroonian  Master degree Student in the field Management of Information and Technology (MIT) full-stack developer, content creator and community manager for various businesses.I own some online services company like RRYL MEDIA SERVICE (RMS), TradeUp and RLOOKSTYL. I also publish content on pinterest, instagram, facebook, telegram.
 
 <!-- Social icons section -->
