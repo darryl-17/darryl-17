@@ -2,13 +2,7 @@
 **`Darryl Wassi (Founder - RRYL Media Service | Video Editor | Community Manager | Web Designer)`**
 I'm a cameroonian  Master degree Student in the field Management of Information and Technology (MIT) developer, content creator and community manager for various businesses.I own some online services company like RRYL MEDIA SERVICE (Providing digital services), TradeUp (Assistance company in the field of Trading stocks, Crypto, Indices and Forex) and RLOOKSTYL (A future fashion brand). I also publish content on pinterest, instagram, facebook, telegram.
 
-<!-- Social icons section -->
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/darryl-wassi-30088729b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-</p>
+
 
 ---
 
