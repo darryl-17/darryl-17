@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE
-**`Darryl Wassi (Founder - RRYL Media Service | IT Manager | Video Editor | Community Manager )`**
-I'm a cameroonian, currently IT Manager at ROOTED SARL, a consulting and professional service company based in yaounde.I own some online services company like RRYL MEDIA SERVICE (Providing digital services), TradeUp (Assistance company in the field of Trading stocks, Crypto, Indices and Forex) and RLOOKSTYL (A future fashion brand). I also publish content on pinterest, instagram, facebook, telegram.
+**`Darryl Wassi (Founder - RRYL Media Service | IT Manager | Aspiring entrepreneur )`**
+I'm a cameroonian, currently IT Manager at ROOTED SARL, a consulting and professional service company based in yaounde.I own some online services company like RRYL MEDIA SERVICE (Providing digital services), TradeUp (Assistance in the field of Trading stocks, Crypto, Indices and Forex) and RLOOKSTYL (A future fashion brand). I also publish content on pinterest, instagram, facebook, telegram.
 
 
 
