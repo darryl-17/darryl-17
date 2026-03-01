@@ -23,10 +23,9 @@ I'm a cameroonian, currently IT Manager at ROOTED SARL, a consulting and profess
 
 ### 🏄‍♂️ Hobbies
 - Coding
-- Football
-- Basketball
-- Watching videos related to entrepreneurship 
-- Gaming
+- Reading
+- Listening to Music (Recentely had 34 0000 Minutes Listening on Spotify at the end of 2025)
+- Watching videos related to entrepreneurship, AI & technology
 
 
 
