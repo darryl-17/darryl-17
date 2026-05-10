@@ -6,7 +6,7 @@ Cameroonian, currently IT Manager at ROOTED SARL, a consulting and professional 
 
 ---
 
-### 🧰 Languages and Tools
+###  Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -21,7 +21,7 @@ Cameroonian, currently IT Manager at ROOTED SARL, a consulting and professional 
 <br />
 
 
-### 🏄‍♂️ Hobbies
+###  Hobbies
 - Coding
 - Reading
 - Listening to Music (Recentely had 34 0000 Minutes Listening on Spotify at the end of 2025)
