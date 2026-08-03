@@ -6,7 +6,7 @@ I'm a builder working at the intersection of **code, business, and creativity**.
 - **Founder** of **RRYL Media Service** (community management, video editing, web development, premium services)
 - **Co-Founder** of **Lingua Afrika**, an AI translation platform for Central African languages
 - **Master's Student** in Information Systems Management at ISTAG Yaoundé (Master 2)
-- **Content Creator** publishing as **"The Digital Builder"** across LinkedIn, Instagram, Pinterest, TikTok, Substack, and more
+- **Content Creator** publishing  across LinkedIn, Instagram, Pinterest, TikTok, Substack, and more
 - Harvard **CS50** graduate
 
 ---
