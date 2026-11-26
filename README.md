@@ -1,6 +1,76 @@
-# Darryl Wassi
+## About Me
 
-Full-stack developer, IT manager and builder from Yaoundé, Cameroon.
+I'm a builder working at the intersection of **code, business, and creativity**. I build software, brands, and systems that make digital opportunity accessible, especially for businesses and people in francophone Africa.
+
+I believe the wall was never intelligence or origin, just a missing ramp. My work is about building those ramps.
+
+- **IT Manager and sole developer** at **Rooted SARL**, a strategic consulting company in Yaoundé and Douala
+- **Founder** of **RRYL Media Service** (community management, video editing, web development, podcasts)
+- **Master's student** in Information Systems Management at ISTAG Yaoundé (Master 2, defence in 2027), after a BTS and a Licence at ISTAG
+- **Master in Management** student at Saylor University (online, since August 2026)
+- **Content creator** behind *The Digital Builder*, on LinkedIn, Instagram, TikTok and Substack
+- Harvard **CS50** graduate
+
+---
+
+## What I'm Building
+
+| Project | Description |
+|---------|-------------|
+| **AI software for business diagnostics and transformation** | My Master 2 research project: an AI-assisted platform that helps Cameroonian companies understand where they stand and what to do next, with every recommendation validated by a human. Built with Next.js, Supabase and Claude. Field pilot with real companies in 2027. |
+| **RRYL Media Service** | Digital agency and podcast studio: *The Craft*, *Dit en Cachette*, *Le Fil des Idées* |
+| **The Digital Builder** | Content that explains digital tools to non-technical francophone African audiences |
+| **Reading Diaries** | Turning book passages into multilingual social content |
+
+---
+
+## What I've Built
+
+| Project | Description |
+|---------|-------------|
+| **ROOT OS** | Management system for Rooted SARL: invoicing, CRM, projects, content pipeline, team directory and finance in FCFA, in French |
+| **Rental management system** | Website and internal operations platform for a Yaoundé company: vehicle rentals, operations, finance, HR and customer service |
+| **Restaurant operations system** | Day-to-day operations management for a restaurant in Yaoundé |
+| **E-commerce and payments** | Online stores and payment integrations (payment API, Orange Money order flows, discount coupons) for a beauty brand and a consulting firm's event ticketing |
+| **Client websites** | Websites built with code, WordPress and Wix for healthcare, hospitality, real estate and consulting clients |
+| **Prototypes** | FinTrack (personal finance in XAF) and SwiftPOS (a complete point-of-sale system in a single file) |
+| **Content systems** | A 90-day LinkedIn client acquisition strategy, brand kits and multi-platform live streams for a consulting firm |
+
+Also: participant in the CITS 26 Yaoundé Innovation Bootcamp.
+
+---
+
+## What I Want to Accomplish
+
+- Help African businesses move from traditional workflows to AI-augmented ones, with tools built for their reality: French and English, mobile-first, FCFA, OHADA, WhatsApp, intermittent connectivity
+- Turn my research into software that real companies use and that measurably changes how they work
+- Build companies, not only projects, and show that world-class software can be designed and built from Cameroon
+- Keep learning in public and make the path easier for the next builder
+
+---
+
+## Skills
+
+**Software engineering**
+Full-stack web apps (Next.js, React, TypeScript, Node.js, Python), PostgreSQL and Supabase with row-level security, API and online payment integrations, monorepos, testing and CI/CD, code review workflows with AI agents (Claude Code, Codex, Conductor, CodeRabbit)
+
+**AI integration**
+Applications built on large language models: structured outputs, prompt design, logging and audit trails, human-in-the-loop validation of AI proposals
+
+**IT and systems**
+IT management for a consulting firm: Google Workspace and Canva administration, backups, workstation maintenance, configuration of physical and digital tools, monitoring of internal systems, process automation with n8n
+
+**Web and digital**
+Websites with code, Framer, Wix and WordPress, DNS and domains, email deliverability, analytics, digital transformation of business workflows
+
+**Media and content**
+Video editing (CapCut, DaVinci Resolve), podcast production, community management, social media content strategy, writing and publishing on LinkedIn, Instagram, TikTok and Substack
+
+**Creative and brand**
+Visual design (Figma, Canva, Framer), brand identity, personal branding, storytelling for francophone African audiences
+
+**Business and research**
+Entrepreneurship, consulting support, project planning and follow-up, Design Science Research, survey design and data analysis
 
 ---
 
@@ -56,86 +126,6 @@ Full-stack developer, IT manager and builder from Yaoundé, Cameroon.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
 ![DaVinci Resolve](https://img.shields.io/badge/-232323?style=for-the-badge&logo=davinciresolve&logoColor=FF6600)
-
----
-
-## Technical Skills
-
-**Software engineering**
-Full-stack web apps (Next.js, React, TypeScript, Node.js, Python), PostgreSQL and Supabase with row-level security, API and online payment integrations, monorepos, testing and CI/CD, code review workflows with AI agents (Claude Code, Codex, Conductor, CodeRabbit)
-
-**AI integration**
-Applications built on large language models: structured outputs, prompt design, logging and audit trails, human-in-the-loop validation of AI proposals
-
-**IT and systems**
-IT management for a consulting firm: Google Workspace and Canva administration, backups, workstation maintenance, configuration of physical and digital tools, monitoring of internal systems, process automation with n8n
-
-**Web and digital**
-Websites with code, Framer, Wix and WordPress, DNS and domains, email deliverability, analytics, digital transformation of business workflows
-
----
-
-## What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| **AI software for business diagnostics and transformation** | My Master 2 research project: an AI-assisted platform that helps Cameroonian companies understand where they stand and what to do next, with every recommendation validated by a human. Built with Next.js, Supabase and Claude. Field pilot with real companies in 2027. |
-| **RRYL Media Service** | Digital agency and podcast studio: *The Craft*, *Dit en Cachette*, *Le Fil des Idées* |
-| **The Digital Builder** | Content that explains digital tools to non-technical francophone African audiences |
-| **Reading Diaries** | Turning book passages into multilingual social content |
-
----
-
-## What I've Built
-
-| Project | Description |
-|---------|-------------|
-| **ROOT OS** | Management system for Rooted SARL: invoicing, CRM, projects, content pipeline, team directory and finance in FCFA, in French |
-| **Rental management system** | Website and internal operations platform for a Yaoundé company: vehicle rentals, operations, finance, HR and customer service |
-| **Restaurant operations system** | Day-to-day operations management for a restaurant in Yaoundé |
-| **E-commerce and payments** | Online stores and payment integrations (payment API, Orange Money order flows, discount coupons) for a beauty brand and a consulting firm's event ticketing |
-| **Client websites** | Websites built with code, WordPress and Wix for healthcare, hospitality, real estate and consulting clients |
-| **Prototypes** | FinTrack (personal finance in XAF) and SwiftPOS (a complete point-of-sale system in a single file) |
-| **Content systems** | A 90-day LinkedIn client acquisition strategy, brand kits and multi-platform live streams for a consulting firm |
-
-Also: participant in the CITS 26 Yaoundé Innovation Bootcamp.
-
----
-
-## About Me
-
-I'm a builder working at the intersection of **code, business, and creativity**. I build software, brands, and systems that make digital opportunity accessible, especially for businesses and people in francophone Africa.
-
-I believe the wall was never intelligence or origin, just a missing ramp. My work is about building those ramps.
-
-- **IT Manager and sole developer** at **Rooted SARL**, a strategic consulting company in Yaoundé and Douala
-- **Founder** of **RRYL Media Service** (community management, video editing, web development, podcasts)
-- **Master's student** in Information Systems Management at ISTAG Yaoundé (Master 2, defence in 2027), after a BTS and a Licence at ISTAG
-- **Master in Management** student at Saylor University (online, since August 2026)
-- **Content creator** behind *The Digital Builder*, on LinkedIn, Instagram, TikTok and Substack
-- Harvard **CS50** graduate
-
----
-
-## Other Skills
-
-**Media and content**
-Video editing (CapCut, DaVinci Resolve), podcast production, community management, social media content strategy, writing and publishing on LinkedIn, Instagram, TikTok and Substack
-
-**Creative and brand**
-Visual design (Figma, Canva, Framer), brand identity, personal branding, storytelling for francophone African audiences
-
-**Business and research**
-Entrepreneurship, consulting support, project planning and follow-up, Design Science Research, survey design and data analysis
-
----
-
-## What I Want to Accomplish
-
-- Help African businesses move from traditional workflows to AI-augmented ones, with tools built for their reality: French and English, mobile-first, FCFA, OHADA, WhatsApp, intermittent connectivity
-- Turn my research into software that real companies use and that measurably changes how they work
-- Build companies, not only projects, and show that world-class software can be designed and built from Cameroon
-- Keep learning in public and make the path easier for the next builder
 
 ---
 
