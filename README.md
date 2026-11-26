@@ -80,10 +80,25 @@ Websites with code, Framer, Wix and WordPress, DNS and domains, email deliverabi
 | Project | Description |
 |---------|-------------|
 | **AI software for business diagnostics and transformation** | My Master 2 research project: an AI-assisted platform that helps Cameroonian companies understand where they stand and what to do next, with every recommendation validated by a human. Built with Next.js, Supabase and Claude. Field pilot with real companies in 2027. |
-| **Rooted SARL systems** | Internal operations system, client websites and online payment integrations for a consulting firm and its clients |
 | **RRYL Media Service** | Digital agency and podcast studio: *The Craft*, *Dit en Cachette*, *Le Fil des Idées* |
 | **The Digital Builder** | Content that explains digital tools to non-technical francophone African audiences |
 | **Reading Diaries** | Turning book passages into multilingual social content |
+
+---
+
+## What I've Built
+
+| Project | Description |
+|---------|-------------|
+| **ROOT OS** | Management system for Rooted SARL: invoicing, CRM, projects, content pipeline, team directory and finance in FCFA, in French |
+| **Rental management system** | Website and internal operations platform for a Yaoundé company: vehicle rentals, operations, finance, HR and customer service |
+| **Restaurant operations system** | Day-to-day operations management for a restaurant in Yaoundé |
+| **E-commerce and payments** | Online stores and payment integrations (payment API, Orange Money order flows, discount coupons) for a beauty brand and a consulting firm's event ticketing |
+| **Client websites** | Websites built with code, WordPress and Wix for healthcare, hospitality, real estate and consulting clients |
+| **Prototypes** | FinTrack (personal finance in XAF) and SwiftPOS (a complete point-of-sale system in a single file) |
+| **Content systems** | A 90-day LinkedIn client acquisition strategy, brand kits and multi-platform live streams for a consulting firm |
+
+Also: participant in the CITS 26 Yaoundé Innovation Bootcamp.
 
 ---
 
@@ -95,8 +110,8 @@ I believe the wall was never intelligence or origin, just a missing ramp. My wor
 
 - **IT Manager and sole developer** at **Rooted SARL**, a strategic consulting company in Yaoundé and Douala
 - **Founder** of **RRYL Media Service** (community management, video editing, web development, podcasts)
-- **Master's student** in Information Systems Management at ISTAG Yaoundé (Master 2, defence in 2027)
-- **MBA student** at Saylor University
+- **Master's student** in Information Systems Management at ISTAG Yaoundé (Master 2, defence in 2027), after a BTS and a Licence at ISTAG
+- **Master in Management** student at Saylor University (online, since August 2026)
 - **Content creator** behind *The Digital Builder*, on LinkedIn, Instagram, TikTok and Substack
 - Harvard **CS50** graduate
 
@@ -126,7 +141,8 @@ Entrepreneurship, consulting support, project planning and follow-up, Design Sci
 
 ## When I'm Not Coding
 
-- Reading books on entrepreneurship, technology, and philosophy
+- Reading books on entrepreneurship, technology, and philosophy (lately *Atomic Habits* and *The Psychology of Money*)
+- Science fiction and gaming, with a plan to create games on Roblox
 - Listening to music (340,000+ Spotify minutes in 2025, and counting)
 - Watching content on entrepreneurship, AI, and technology
 - Writing about my journey as a builder in Cameroon
