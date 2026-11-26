@@ -1,13 +1,58 @@
 ## About Me
 
-I'm a builder working at the intersection of **code, business, and creativity**. My mission is simple: build tools, brands, and systems that make digital opportunity accessible, especially for francophone Africa.
+I'm a builder working at the intersection of **code, business, and creativity**. I build software, brands, and systems that make digital opportunity accessible, especially for businesses and people in francophone Africa.
 
-- **IT Manager** at **Rooted SARL**, a strategic consulting company in Yaoundé and Douala
-- **Founder** of **RRYL Media Service** (community management, video editing, web development, premium services)
-- **Co-Founder** of **Lingua Afrika**, an AI translation platform for Central African languages
-- **Master's Student** in Information Systems Management at ISTAG Yaoundé (Master 2)
-- **Content Creator** publishing  across LinkedIn, Instagram, Pinterest, TikTok, Substack, and more
+I believe the wall was never intelligence or origin, just a missing ramp. My work is about building those ramps.
+
+- **IT Manager and sole developer** at **Rooted SARL**, a strategic consulting company in Yaoundé and Douala
+- **Founder** of **RRYL Media Service** (community management, video editing, web development, podcasts)
+- **Master's student** in Information Systems Management at ISTAG Yaoundé (Master 2, defence in 2027)
+- **MBA student** at Saylor University
+- **Content creator** behind *The Digital Builder*, on LinkedIn, Instagram, TikTok and Substack
 - Harvard **CS50** graduate
+
+---
+
+## What I'm Building
+
+| Project | Description |
+|---------|-------------|
+| **AI software for business diagnostics and transformation** | My Master 2 research project: an AI-assisted platform that helps Cameroonian companies understand where they stand and what to do next, with every recommendation validated by a human. Built with Next.js, Supabase and Claude. Field pilot with real companies in 2027. |
+| **Rooted SARL systems** | Internal operations system, client websites and online payment integrations for a consulting firm and its clients |
+| **RRYL Media Service** | Digital agency and podcast studio: *The Craft*, *Dit en Cachette*, *Le Fil des Idées* |
+| **The Digital Builder** | Content that explains digital tools to non-technical francophone African audiences |
+| **Reading Diaries** | Turning book passages into multilingual social content |
+
+---
+
+## What I Want to Accomplish
+
+- Help African businesses move from traditional workflows to AI-augmented ones, with tools built for their reality: French and English, mobile-first, FCFA, OHADA, WhatsApp, intermittent connectivity
+- Turn my research into software that real companies use and that measurably changes how they work
+- Build companies, not only projects, and show that world-class software can be designed and built from Cameroon
+- Keep learning in public and make the path easier for the next builder
+
+---
+
+## Skills
+
+**Software engineering**
+Full-stack web apps (Next.js, React, TypeScript, Node.js, Python), PostgreSQL and Supabase with row-level security, API and online payment integrations, testing and CI/CD, AI integration with large language models (structured outputs, prompt design, human-in-the-loop workflows)
+
+**IT and systems**
+IT management for a consulting firm: Google Workspace and Canva administration, backups, workstation maintenance, configuration of physical and digital tools, monitoring of internal systems, process automation with n8n
+
+**Web and digital**
+Websites with code, Wix and WordPress, DNS and domains, email deliverability, analytics, digital transformation of business workflows
+
+**Media and content**
+Video editing (CapCut, DaVinci Resolve), podcast production, community management, social media content strategy, writing and publishing on LinkedIn, Instagram, TikTok and Substack
+
+**Creative and brand**
+Visual design (Figma, Canva), brand identity, personal branding, storytelling for francophone African audiences
+
+**Business and research**
+Entrepreneurship, consulting support, project planning and follow-up, Design Science Research, survey design and data analysis
 
 ---
 
@@ -22,6 +67,7 @@ I'm a builder working at the intersection of **code, business, and creativity**.
 ![](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend & Design
+![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -35,6 +81,7 @@ I'm a builder working at the intersection of **code, business, and creativity**.
 ### Platforms & DevOps
 ![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=wix&logoColor=white)
@@ -47,17 +94,6 @@ I'm a builder working at the intersection of **code, business, and creativity**.
 ### Video & Creative
 ![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![](https://img.shields.io/badge/-232323?style=for-the-badge&logo=davinciresolve&logoColor=FF6600)
-
----
-
-## What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| **ROOT OS** | Internal ERP system built for Rooted SARL to manage operations end to end |
-| **Lingua Afrika** | AI translation platform for Central African languages, bridging communities |
-| **RRYL Media Service** | Full-service digital agency: video, community, web dev, and more |
-| **The Digital Builder** | Personal brand making digital tools accessible to francophone African audiences |
 
 ---
 
@@ -77,9 +113,11 @@ Whether you want to collaborate, discuss a project, or just say hi:
 <div align="center">
 
 [![](https://img.shields.io/badge/-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darrylwassi.com)
-[![](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darryl-wassi/)
+[![](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darryl-wassi-30088729b/)
 [![](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_rryl)
+[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/darryl_wassi)
 [![](https://img.shields.io/badge/-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@darrylwassi)
+[![](https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-4752-434X)
 [![](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darrylwassi@gmail.com)
 
 </div>
@@ -88,6 +126,6 @@ Whether you want to collaborate, discuss a project, or just say hi:
 
 <div align="center">
 
-*Building a life I won't regret.*
+*I don't just imagine things. I build them.*
 
 </div>
